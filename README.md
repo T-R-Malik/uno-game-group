@@ -1,13 +1,13 @@
 # UNO Card Game
-![Game](images/Game.png)
+![Game](image/Game.png)
 ## Overview
 
 A group project implementing the UNO card game with a graphical user interface.
 
 <p align="center">
-  <img src="images/Main-Menu1.png" width="45%">
-  <img src="images/Main-Menu2.png" width="45%">
-  <img src="images/Game-Over.png" width="45%">
+  <img src="image/Main-Menu1.png" width="45%">
+  <img src="image/Main-Menu2.png" width="45%">
+  <img src="image/Game-Over.png" width="45%">
 </p>
 
 ## My Contributions
